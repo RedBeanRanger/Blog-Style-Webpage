@@ -1,0 +1,126 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>About</title>
+    <link rel = "stylesheet" type = "text/css" href = "../css/myStyle.css"/>
+
+  </head>
+  <body>
+
+<!--NAVBAR---------------------------------------------------------------->
+
+    <div class = "navBar">
+      <a href = "index">
+      <img src = "../img/ccwlogo.png" alt = "logo" width = "230px"/>
+    </a>
+
+  <ul>
+
+    <li>
+      <a href = "writePrompts">Writing Prompts</a>
+    </li>
+
+    <li>
+      <a href = "tipsTricks">Tips & Tricks</a>
+    </li>
+
+    <li>
+     <a href = "FAQ.html">FAQ</a>
+    </li>
+
+     <li>
+       <a class = "active" href = "myWebpage">About Me</a>
+     </li>
+
+     <li>
+       <a href = "siteMap">Site Map</a>
+     </li>
+
+  </ul>
+
+  </div>
+
+    <!--END OF NAVBAR------------------------------------------------->
+
+
+  
+    <div class = "table"> <!--table div-->
+      <div style = "display: table-row;"><!--row 1-->
+
+      <div  class = "title">
+
+      <p class = "title">
+        <img src = "../img/kitty2.png" alt = "image" width = "60px" height = "60px"/>
+        About Me
+        <img src = "../img/kitty.png" alt = "image" width = "60px" height = "60px"/>
+      </p>
+      <p>The Creative Cafe on the Web</p>
+        <!--padding: space between the borders of the div and the content
+            margin: the space between the website and the div
+            -->
+      </div>
+    </div> <!--row1-->
+
+    <!--left table cell-->
+
+    <div style="display: table－row;
+                margin-top: 30px;"><!--row 2-->
+
+
+
+    <!--right table cell-->
+        <div class="cell">
+                <!--background-color: EED5D1;-->
+
+        <p class = "meat" style>
+          Hi! My name is Angela Zhang, and I am currently 15 years old. I am attending Shanghai Community International School for 10<sup>th</sup> grade.
+         <br/><br/>
+          Although I hold a Canadian passport and is legally considered Canadian, my family is actually Chinese. Because of my upbringing, I am fluent in both Chinese and English. I can also understand the dialect of Shanghainese from living in Shanghai.
+          I am also "fluent" in two instruments: violin and piano.
+         <br/><br/>
+          Some things about me: I am a cheerful and optimistic person who is always coming up with <del>weird</del> original ideas. I also love furry animals!! Particulary cats.
+          I am also incredibly fond of puns. Even though my friends tell me I am not punny at all, I am trying my best to be even more pawesome every day.
+          <br/><br/>
+          (Did I succeed in making you cringe? :D)
+          <br/><br/>
+          Some of the things I enjoy doing include volunteering around the community, playing my violin, playing my piano, reading, writing, and just learning about new things in general! I am also super geeky. I love tech stuff!! I can program in Java, and as you can see here, I know how to make webpages in HTML.
+          But hey! I am not just your average geek!!! I also like to go on hiking trips and visit parks! I also <del>play a lot of video games</del> study in my spare time!
+          <br/><br/>
+          I like to write stories in my spare time, but like all writers, I have times when I run into a writer's block.
+          So I decided to make this website for people who are suffering from the writer's block and hopefully you found something inspiring!
+          <br/><br/>
+          It's a pleasure to meet you!
+        </p>
+
+      </div>
+
+    </div><!--row 2-->
+
+    <div style = "display: table-row;"><!--row 3-->
+
+      <div  class = "gallery">
+
+            <!--  background-color: E3D6C6;-->
+
+      <p class = "title"> Gallery </p>
+
+        <div style = "display: table-row;">
+            <img class = "galleryIMG" src = "../img/hi_beijing.JPG"/>
+            <img class = "galleryIMG" src = "../img/beijing.jpg"/>
+            <img class = "galleryIMG" src = "../img/photobomber.jpg"/>
+            <img class = "galleryIMG" src = "../img/concert.png"/>
+            <img class = "galleryIMG" src = "../img/force.jpg"/>
+            <img class = "galleryIMG" src = "../img/open.jpg/">
+        </div>
+      </div>
+    </div><!--row 3-->
+
+    <p class ="copy">
+    &copy Le Wonderful World of Angela Zhang, 2016 All Rights Reserved.
+    <p>
+
+  </div><!--end of table div-->
+
+
+  </body>
+</html>

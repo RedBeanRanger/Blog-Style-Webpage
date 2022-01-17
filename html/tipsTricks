@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tips & Tricks</title>
+        <link rel = "stylesheet" type = "text/css" href = "../css/myStyle.css"/>
+  </head>
+  <div class = "navBar">
+    <a href = "index">
+    <img src = "../img/ccwlogo.png" alt = "logo" width = "230px"/>
+  </a>
+
+
+<ul>
+
+  <li>
+    <a href = "writePrompts">Writing Prompts</a>
+  </li>
+
+  <li>
+    <a class = "active" href = "tipsTricks">Tips & Tricks</a>
+  </li>
+
+  <li>
+   <a href = "FAQ.html">FAQ</a>
+  </li>
+
+   <li>
+     <a class = "active" href = "myWebpage">About Me</a>
+   </li>
+
+   <li>
+     <a href = "siteMap">Site Map</a>
+   </li>
+
+
+</ul>
+
+</div>
+
+  <!--END OF NAVBAR------------------------------------------------->
+
+
+
+  <div class = "table"> <!--table div-->
+    <div style = "display: table-row;"><!--row 1-->
+
+    <div  class = "title">
+
+    <p class = "title">
+      <img src = "../img/kitty2.png" alt = "image" width = "60px" height = "60px"/>
+      Tips & Tricks for Writing
+      <img src = "../img/kitty.png" alt = "image" width = "60px" height = "60px"/>
+    </p>
+    <p>The Creative Cafe on the Web</p>
+      <!--padding: space between the borders of the div and the content
+          margin: the space between the website and the div
+          -->
+    </div>
+  </div> <!--row1-->
+
+  <!--left table cell-->
+
+  <div style="display: table－row;
+              margin-top: 30px;"><!--row 2-->
+
+
+
+  <!--right table cell-->
+      <div class="cell">
+              <!--background-color: EED5D1;-->
+
+        <ol>
+          <li>
+            Pretend there's nobody there and write down anything you like! Don't be afraid! :)
+          </li>
+          <p class = "meat">When you write, it's best to be as honest as possible.
+            That's how you make your plot and your characters believable and appealing to the reader.
+            Always have confidence in your writing no matter how ridiculous it seems in the moment.
+          <br/><br/>(I'll give you an example first... I just thought of how humans are kind of like a computers... Our eyes are our graphic cards,
+          our brains are our processors, our batteries (stomachs) are almost never full...
+          I don't know where I was going with that either, but who knows, maybe it will turn into something epic. Just write it down. :D)
+          </p>
+
+          <li>
+            Write about things that you want to write about.
+          </li>
+          <p class = "meat"> The story should be worthwhile for the author for it to be worthwhile to the reader.
+            Don't waste your time trying to write something that you are bored with!
+          </p>
+
+            <li>
+              Don't be afraid to scrap ideas either!
+            </li>
+
+            <p class = "meat"> Sometimes we have to remember nothing in life is perfect, and it's perfectly fine to just toss some things out the window.
+              We change, and our interests and values change with us too, so it's okay to dislike writing about something you once enjoyed writing about.
+            </p>
+
+          <li>Always experiment.</li>
+
+          <p class = "meat"> How do you know if you will enjoy writing something or not when you've never even tried it? Try to keep an open mind
+            and try writing in a different genre than the one you usually write about.
+
+        </ol>
+
+    </div>
+
+  </div><!--row 2-->
+
+  <p class ="copy">
+  &copy Le Wonderful World of Angela Zhang, 2016 All Rights Reserved.
+  <p>
+
+</div><!--end of table div-->
+
+
+</body>
+</html>

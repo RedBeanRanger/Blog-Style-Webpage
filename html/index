@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Creative Cafe on the Web</title>
+    <link rel = "stylesheet" type = "text/css" href = "../css/myStyle.css"/>
+
+  </head>
+  <body>
+
+    <div class = "table"
+    style = "width: 1110px;
+            padding-left: 80px;
+            padding-right:80px;"> <!--table div-->
+      <div style = "display: table-row;"><!--row 1-->
+
+      <div  class = "title">
+
+      <p class = "title">
+        <img src = "../img/kitty2.png" alt = "image" width = "60px" height = "60px"/>
+        Creative Cafe on the Web
+        <img src = "../img/kitty.png" alt = "image" width = "60px" height = "60px"/>
+      </p>
+        <!--padding: space between the borders of the div and the content
+            margin: the space between the website and the div
+            -->
+      </div>
+    </div>
+
+    <div style = "display: table-row;
+                  width: 1100px;
+                  height:200px;">
+      <p>Hello! Welcome to the Creative Cafe on the Web, a site dedicated to aspiring writers!
+        If you are someone who wants to learn to write or is just bored, you are welcomed!
+        Pleased feel free to browse around the site with the links below:
+      </p>
+    </div>
+
+    <div style="display: table－row;"><!--row 2-->
+
+
+      <a href="writePrompts"
+      class = "homeLink"
+      style = "background-color: EED5D1;">
+        Writing Prompts</a>
+
+
+    <a href = "tipsTricks" class = "homeLink" style = "background-color: DDE0CD;">
+      Tips & Tricks</a>
+
+      <a href = "siteMap" class ="homeLink" style = "background-color: EDD5D1;">
+      Site Map</a>
+
+    <p class ="copy">
+    &copy Le Wonderful World of Angela Zhang, 2016 All Rights Reserved.
+    <p>
+
+  </div><!--end of table div-->
+
+
+  </body>
+</html>

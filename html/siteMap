@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Site Map</title>
+    <link rel = "stylesheet" type = "text/css" href = "../css/myStyle.css"/>
+  </head>
+  <body>
+
+    <!--NAVBAR---------------------------------------------------------------->
+
+        <div class = "navBar">
+          <a href = "index">
+          <img src = "../img/ccwlogo.png" alt = "logo" width = "230px"/>
+        </a>
+
+      <ul>
+
+        <li>
+          <a href = "writePrompts">Writing Prompts</a>
+       </li>
+
+       <li>
+         <a href = "tipsTricks">Tips & Tricks</a>
+       </li>
+
+       <li>
+         <a href = "FAQ.html">FAQ</a>
+       </li>
+
+       <li>
+         <a href = "myWebpage">About Me</a>
+       </li>
+
+       <li>
+         <a class = "active" href = "siteMap">Site Map</a>
+       </li>
+
+      </ul>
+
+      </div>
+
+        <!--END OF NAVBAR------------------------------------------------->
+
+
+                <div class = "table"> <!--table div-->
+                  <div style = "display: table-row;"><!--row 1-->
+
+                  <div  class = "title">
+
+                  <p class = "title">
+                    <img src = "../img/kitty2.png" alt = "image" width = "60px" height = "60px"/>
+                    Site Map
+                    <img src = "../img/kitty.png" alt = "image" width = "60px" height = "60px"/>
+                  </p>
+                  <p>The Creative Cafe on the Web</p>
+                    <!--padding: space between the borders of the div and the content
+                        margin: the space between the website and the div
+                        -->
+                  </div>
+                </div> <!--row1-->
+
+                <!--left table cell-->
+
+                <div style="display: table－row;
+                            margin-top: 30px;"><!--row 2-->
+
+
+
+                <!--right table cell-->
+                    <div class="cell">
+                            <!--background-color: EED5D1;-->
+
+                  <ul>
+                    <li>
+                      A
+                    </li>
+                    <a class = "link" href="myWebpage">About Me</a><br/>
+                    <a class = "link" href="myWebpage">Angela Zhang</a><br/>
+                    <a class = "link" href="FAQ">Adding Content</a></br>
+
+                    <li>
+                      E
+                    </li>
+                    <a class = "link" href = "tipsTricks">Experiment</a><br/>
+
+                    <li>
+                      F
+                    </li>
+                      <a class = "link" href = "FAQ.html">Frequently Asked</a></br>
+
+                  <li>
+                    H
+                  </li>
+                  <a class="link" href = "index">Home</a>
+
+                  <li>
+                    I
+                  </li>
+                  <a class="link" href = "writePrompts">Ideas</a>
+
+                  <li>
+                    T
+                  </li>
+                  <a class = "link" href = "tipsTricks"> Tips & Tricks </a>
+
+                  <li>
+                    W
+                  </li>
+                  <a class = "link" href = "writePrompts"> Writing Prompgs </a>
+
+                  </ul>
+                    </div>
+                  </div>
+                </div><!--row 3-->
+
+                <p class ="copy">
+                &copy Le Wonderful World of Angela Zhang, 2016 All Rights Reserved.
+                <p>
+
+              </div><!--end of table div-->
+
+  </body>
+</html>
